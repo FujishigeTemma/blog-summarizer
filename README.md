@@ -1,1 +1,3 @@
 # blog-summarizer
+2020traP新刊ブログリレー5/17用プロジェクト
+ブログの要約をtwitterに投げるやつ
